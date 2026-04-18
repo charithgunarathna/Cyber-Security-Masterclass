@@ -1,5 +1,4 @@
 # 🛡️ Advanced Cyber Security Masterclass
-
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Level](https://img.shields.io/badge/Level-Advanced-red)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)
@@ -8,6 +7,8 @@
 Welcome to the **Advanced Cyber Security Masterclass**. This repository serves as an enterprise-grade learning path designed for individuals aiming to master Information Security, Red Teaming, and Blue Teaming architectures.
 
 Unlike basic tutorials, this guide dives deep into enterprise security frameworks, advanced exploitation methodologies, and industry-standard defensive tactics.
+
+<img width="2500" height="1000" alt="y" src="https://github.com/user-attachments/assets/e2aba318-0866-4d62-a7bd-bd9b48fc1f31" />
 
 ---
 
