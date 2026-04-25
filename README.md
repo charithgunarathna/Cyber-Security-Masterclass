@@ -1,4 +1,4 @@
-# 🛡️ Advanced Cyber Security Masterclass
+# 🛡️ cybersecurity-learning-hub
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Level](https://img.shields.io/badge/Level-Advanced-red)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)
